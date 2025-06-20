@@ -52,7 +52,7 @@ Reinstall dependencies:
 rm -rf node_modules
 npm install
 ```
-text
+
 
 ### How to add this to your project:
 
