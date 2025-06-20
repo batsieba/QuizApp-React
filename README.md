@@ -7,11 +7,12 @@ A simple React Native quiz app built with Expo.
 1. **Install dependencies**:
    ```bash
    npm install
+   ```
 2. Start the app:
 
 ```bash
 npm start
-
+```
 3. Run on your device:
 
 Install the Expo Go app on your phone
@@ -30,7 +31,9 @@ const quizData = [
   },
   // Add more questions like above
 ]
-Requirements
+
+```
+## Requirements
 Node.js (version 16 or newer)
 
 Expo Go app (for testing on phone)
@@ -42,11 +45,13 @@ Try clearing npm cache:
 
 ```bash
 npm cache clean --force
+```
 Reinstall dependencies:
 
 ```bash
 rm -rf node_modules
 npm install
+```
 text
 
 ### How to add this to your project:
@@ -61,3 +66,4 @@ text
 git add README.md
 git commit -m "Add simple README file"
 git push
+```
